@@ -15,20 +15,17 @@ cta:
 permalink: /
 ---
 
-<div>   
-    <img src="/assets/images/icons/italy.png" alt="" />
-  <a href="https://www.gbif.org/occurrence/search?country=IT" target="_blank"></a>
+<div>
+  <a href="https://www.gbif.org/occurrence/search?country=IT" target="_blank"><img src="/assets/images/icons/italy.png" alt="" /></a>
 </div>
 <div>
   <div>
     <a href="https://www.gbif.org/occurrence/search?country=IT" target="_blank"></a>
     <h3>
-      <a href="https://www.gbif.org/occurrence/search?country=IT" target="_blank" ></a>
+      <a href="https://www.gbif.org/occurrence/search?country=IT" target="_blank" >Occurrences in Italy</a>
     </h3>
   </div>
-  <div>
-    <p>Occurrences in Italy</p>
-  </div>
+</div>
 
 Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
 flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
