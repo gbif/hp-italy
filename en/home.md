@@ -20,10 +20,16 @@ permalink: /
 </div>
 <div>
   <div>
-    <a href="https://www.gbif.org/occurrence/search?country=IT" target="_blank"></a>
-    <h3>
-      <a href="https://www.gbif.org/occurrence/search?country=IT" target="_blank" >Occurrences in Italy</a>
-    </h3>
+    <a href="https://www.gbif.org/occurrence/search?country=IT" target="_blank" >Occurrences in Italy</a>
+  </div>
+</div>
+
+<div>
+  <a href="https://www.gbif.org/occurrence/search?country=IT" target="_blank"><img src="/assets/images/icons/italy.png" alt="" /></a>
+</div>
+<div>
+  <div>
+    <a href="https://www.gbif.org/occurrence/search?country=IT" target="_blank" >Occurrences in Italy</a>
   </div>
 </div>
 
