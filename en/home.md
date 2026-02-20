@@ -16,6 +16,7 @@ permalink: /
 ---
 
 <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 15px;">
+<div>
   <a href="https://www.gbif.org/occurrence/search?country=IT" target="_blank"><img src="/assets/images/icons/italy.png" alt="" /></a>
 </div>
 <div>
@@ -23,14 +24,17 @@ permalink: /
     <a href="https://www.gbif.org/occurrence/search?country=IT" target="_blank" >Occurrences in Italy</a>
   </div>
 </div>
+</div>
 
 <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 15px;">
+<div>
   <a href="https://www.gbif.org/occurrence/search?publishing_country=IT" target="_blank"><img src="/assets/images/icons/occurrences.png" alt="" /></a>
 </div>
 <div>
   <div>
     <a href="https://www.gbif.org/occurrence/search?publishing_country=IT" target="_blank" >Occurrences published by Italan publishers</a>
   </div>
+</div>
 </div>
 
 Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
