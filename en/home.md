@@ -15,26 +15,26 @@ cta:
 permalink: /
 ---
 
-<div style="display: flex; align-items: center; gap: 10px; margin-bottom: 15px;">
-<div>
-  <a href="https://www.gbif.org/occurrence/search?country=IT" target="_blank"><img src="/assets/images/icons/italy.png" alt="" /></a>
-</div>
-<div>
-  <div>
-    <a href="https://www.gbif.org/occurrence/search?country=IT" target="_blank" >Occurrences in Italy</a>
-  </div>
-</div>
-</div>
+<div style="display: flex; gap: 40px; align-items: flex-start;">
 
-<div style="display: flex; align-items: center; gap: 10px; margin-bottom: 15px;">
-<div>
-  <a href="https://www.gbif.org/occurrence/search?publishing_country=IT" target="_blank"><img src="/assets/images/icons/occurrences.png" alt="" /></a>
-</div>
-<div>
-  <div>
-    <a href="https://www.gbif.org/occurrence/search?publishing_country=IT" target="_blank" >Occurrences published by Italan publishers</a>
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 200px;">
+    <a href="https://www.gbif.org/occurrence/search?country=IT" target="_blank">
+      <img src="/assets/images/icons/italy.png" alt="" />
+    </a>
+    <a href="https://www.gbif.org/occurrence/search?country=IT" target="_blank" style="margin-top: 10px;">
+      Occurrences in Italy
+    </a>
   </div>
-</div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 200px;">
+    <a href="https://www.gbif.org/occurrence/search?publishing_country=IT" target="_blank">
+      <img src="/assets/images/icons/occurrences.png" alt="" />
+    </a>
+    <a href="https://www.gbif.org/occurrence/search?publishing_country=IT" target="_blank" style="margin-top: 10px;">
+      Occurrences published by Italian publishers
+    </a>
+  </div>
+
 </div>
 
 Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
