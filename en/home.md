@@ -15,7 +15,7 @@ cta:
 permalink: /
 ---
 
-<div>
+<div style="display: flex; align-items: center; gap: 10px; margin-bottom: 15px;">
   <a href="https://www.gbif.org/occurrence/search?country=IT" target="_blank"><img src="/assets/images/icons/italy.png" alt="" /></a>
 </div>
 <div>
@@ -24,7 +24,7 @@ permalink: /
   </div>
 </div>
 
-<div>
+<div style="display: flex; align-items: center; gap: 10px; margin-bottom: 15px;">
   <a href="https://www.gbif.org/occurrence/search?publishing_country=IT" target="_blank"><img src="/assets/images/icons/occurrences.png" alt="" /></a>
 </div>
 <div>
