@@ -6,13 +6,6 @@ description: This is the web page of the Italian GBIF National Node.<br>Here you
 background: /assets/images/banner.png
 imageLicense: CC BY
 height: 70vh
-cta:
-  - text: Occurrences
-    href: /occurrence/search
-    isPrimary: true # this will break as it is illegal yaml
-  - text: Datasets
-    href: /dataset/search
-permalink: /
 ---
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px 40px; justify-content: center; align-items: flex-start;">
