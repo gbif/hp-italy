@@ -17,13 +17,13 @@ permalink: /
 
 <div>   
     <img src="/assets/images/icons/italy.png" alt="" />
-  <a href="https://www.gbif.org/occurrence/search?country=IT" target="'_blank'"></a>
+  <a href="https://www.gbif.org/occurrence/search?country=IT" target="_blank"></a>
 </div>
 <div>
   <div>
-    <a href="https://www.gbif.org/occurrence/search?country=IT" target="'_blank'"></a>
+    <a href="https://www.gbif.org/occurrence/search?country=IT" target="_blank"></a>
     <h3>
-      <a href="https://www.gbif.org/occurrence/search?country=IT" target="'_blank'" ></a>
+      <a href="https://www.gbif.org/occurrence/search?country=IT" target="_blank" ></a>
     </h3>
   </div>
   <div>
