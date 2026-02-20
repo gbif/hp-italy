@@ -29,7 +29,7 @@ permalink: /
 
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 200px;">
     <a href="https://www.gbif.org/occurrence/search?publishing_country=IT" target="_blank">
-      <img src="/assets/images/icons/occurrences.png" alt="" />
+      <img src="/assets/images/icons/occurrences.png" alt="" /><p><span data-ajax-path="data.occurrenceSearch.documents.total" data-ajax-url="https://graphql.gbif.org/graphql?query=%0Aquery%20%7B%0A%20%20occurrenceSearch%28%0A%20%20%20%20predicate%3A%20%7B%0A%20%20%20%20%20%20type%3A%20and%0A%20%20%20%20%20%20predicates%3A%20%5B%0A%20%20%20%20%20%20%20%20%7B%20type%3A%20in%2C%20key%3A%20%22publishingCountry%22%2C%20values%3A%20%5B%22IT%22%5D%20%7D%0A%20%20%20%20%20%20%5D%0A%20%20%20%20%7D%0A%20%20%20%20size%3A%2010%0A%20%20%29%20%7B%0A%20%20%20%20documents%20%7B%0A%20%20%20%20%20%20total%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D%0A"></span></p>
     </a>
     <a href="https://www.gbif.org/occurrence/search?publishing_country=IT" target="_blank" style="margin-top: 10px;">
       Occurrences published by Italian publishers
@@ -38,7 +38,7 @@ permalink: /
 
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 200px;">
     <a href="https://www.gbif.org/dataset/search?publishing_country=IT&advanced=1" target="_blank">
-      <img src="/assets/images/icons/datasets.png" alt="" />
+      <img src="/assets/images/icons/datasets.png" alt="" /><p><span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishing_country=IT&amp;advanced=1"></span></p>
     </a>
     <a href="https://www.gbif.org/dataset/search?publishing_country=IT&advanced=1" target="_blank" style="margin-top: 10px;">
       Datasets from Italian publishers
@@ -47,7 +47,7 @@ permalink: /
 
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 200px;">
     <a href="https://www.gbif.org/publisher/search?country=IT" target="_blank">
-      <img src="/assets/images/icons/publishers.png" alt="" />
+      <img src="/assets/images/icons/publishers.png" alt="" /><p><span data-ajax-url="https://api.gbif.org/v1/organization?country=IT&amp;limit=0&amp;isEndorsed=true">100,000</span></p>
     </a>
     <a href="https://www.gbif.org/publisher/search?country=IT" target="_blank" style="margin-top: 10px;">
       Datasets from Italian publishers
@@ -56,7 +56,7 @@ permalink: /
 
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 200px;">
     <a href="https://www.gbif.org/resource/search?contentType=literature&literatureType=journal&relevance=GBIF_USED&countriesOfResearcher=IT&peerReview=true" target="_blank">
-      <img src="/assets/images/icons/literature.png" alt="" />
+      <img src="/assets/images/icons/literature.png" alt="" /><p><span data-ajax-url="https://api.gbif.org/v1/literature/search?contentType=literature&amp;literatureType=journal&amp;relevance=GBIF_USED&amp;countriesOfResearcher=IT&amp;peerReview=true">100,000</span></p>
     </a>
     <a href="https://www.gbif.org/resource/search?contentType=literature&literatureType=journal&relevance=GBIF_USED&countriesOfResearcher=IT&peerReview=true" target="_blank" style="margin-top: 10px;">
       Scientific papers on peer-reviewed journals published by Italian researchers using GBIF data
