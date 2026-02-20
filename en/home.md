@@ -20,7 +20,7 @@ permalink: /
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 200px;">
     <a href="https://www.gbif.org/occurrence/search?country=IT" target="_blank">
       <img src="/assets/images/icons/italy.png" alt="" />
-      <p><span data-ajax-path="data.occurrenceSearch.documents.total" data-ajax-url="https://graphql.gbif.org/graphql?query=query%0A%7B%0A%20%20occurrenceSearch%28%0A%20%20%20%20predicate%3A%20%7Btype%3A%20and%2C%20predicates%3A%20%5B%7Btype%3A%20in%2C%20key%3A%20%22country%22%2C%20values%3A%20%5B%22IT%22%5D%7D%5D%7D%0A%20%20%20%20size%3A%2010%0A%20%20%29%20%7B%0A%20%20%20%20documents%20%7B%0A%20%20%20%20%20%20total%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D%0A"></span></p>
+      <p><h3><span data-ajax-path="data.occurrenceSearch.documents.total" data-ajax-url="https://graphql.gbif.org/graphql?query=query%0A%7B%0A%20%20occurrenceSearch%28%0A%20%20%20%20predicate%3A%20%7Btype%3A%20and%2C%20predicates%3A%20%5B%7Btype%3A%20in%2C%20key%3A%20%22country%22%2C%20values%3A%20%5B%22IT%22%5D%7D%5D%7D%0A%20%20%20%20size%3A%2010%0A%20%20%29%20%7B%0A%20%20%20%20documents%20%7B%0A%20%20%20%20%20%20total%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D%0A"></span></h3></p>
     </a>
     <a href="https://www.gbif.org/occurrence/search?country=IT" target="_blank" style="margin-top: 10px;">
       Occurrences in Italy
