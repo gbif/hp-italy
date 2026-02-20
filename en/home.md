@@ -25,11 +25,11 @@ permalink: /
 </div>
 
 <div>
-  <a href="https://www.gbif.org/occurrence/search?country=IT" target="_blank"><img src="/assets/images/icons/italy.png" alt="" /></a>
+  <a href="https://www.gbif.org/occurrence/search?publishing_country=IT" target="_blank"><img src="/assets/images/icons/italy.png" alt="" /></a>
 </div>
 <div>
   <div>
-    <a href="https://www.gbif.org/occurrence/search?country=IT" target="_blank" >Occurrences in Italy</a>
+    <a href="https://www.gbif.org/occurrence/search?publishing_country=IT" target="_blank" >Occurrences published by Italan publishers</a>
   </div>
 </div>
 
