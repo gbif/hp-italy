@@ -3,7 +3,7 @@ layout: page
 permalink: /en/governance
 title: "Governance"
 description: Test
-background: /assets/images/background.png
+background: //assets/images/banner.png
 # hasBlackText: false   # OPTIONAL - default is black. Depending on your background image is can be useful to change text color
 # hasTextShadow: false  # OPTIONAL - default is black. Sometimes it is neccessary to add a shadow to the text to give contrast
 # overlayColor: "#ff000055" # OPTIONAL: The default transparent. Example value: #00000055
