@@ -44,6 +44,15 @@ permalink: /
     </a>
   </div>
 
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 200px;">
+    <a href="https://www.gbif.org/publisher/search?country=IT" target="_blank">
+      <img src="/assets/images/icons/publishers.png" alt="" />
+    </a>
+    <a href="https://www.gbif.org/publisher/search?country=IT" target="_blank" style="margin-top: 10px;">
+      Datasets from Italian publishers
+    </a>
+  </div>
+
 </div>
 
 
