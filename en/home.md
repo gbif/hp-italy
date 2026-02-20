@@ -25,7 +25,7 @@ permalink: /
 </div>
 
 <div>
-  <a href="https://www.gbif.org/occurrence/search?publishing_country=IT" target="_blank"><img src="/assets/images/icons/italy.png" alt="" /></a>
+  <a href="https://www.gbif.org/occurrence/search?publishing_country=IT" target="_blank"><img src="/assets/images/icons/occurrences.png" alt="" /></a>
 </div>
 <div>
   <div>
