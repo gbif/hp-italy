@@ -10,10 +10,6 @@ GBIF Italia, il nostro nodo nazionale GBIF, è stato costituito nell'ottobre 202
 <br>
 La struttura di governance è la seguente:
 <br>
-Diego Fontaneto - Head of Delegation
-Stefano Martellos - Substitute Head of Delegation
-Ilaria Rosati - Node Manager
-Gabriele Bucci - MEmber of the Delegation
 <div style="display: flex; flex-wrap: wrap; gap: 20px 40px; justify-content: center; align-items: flex-start;">
 
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 300px;">
