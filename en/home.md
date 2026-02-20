@@ -1,10 +1,10 @@
 ---
 lang-ref: home
 layout: home
-title: My headline
-description: Lorem markdownum spatium limes indefessus neque *at* orat aestuat
-background: /assets/images/placeholders/templates/w1600h800.png
-imageLicense: None for this image
+title: GBIF Italy web site
+description: This is the web page of the Italian GBIF National Node.
+background: /assets/images/placeholders/templates/header.png
+imageLicense: CC BY
 height: 70vh
 cta:
   - text: Occurrences
