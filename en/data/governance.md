@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /layout/page
+permalink: /governance
 title: "layout: Page"
 description: The file behind this page can be explored at [`pages/layout/page.md`](https://github.com/gbif/jekyll-hp-base-theme/blob/master/pages/layout/page.md)
 background: /assets/img/Haeckel_Siphoneae.jpg
