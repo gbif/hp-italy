@@ -18,7 +18,7 @@ Gabriele Bucci - MEmber of the Delegation
 
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 300px;">
     <img src="/assets/images/personnel/DF.png" alt="Diego Fontaneto" />
-      Diego Fontaneto<br>CNR-IRSA<br>Head of Delegation<br><a href="http://www.cnr.it/people/diego.fontaneto" target="_blank" style="margin-top: 10px;">Personal page</a><br><a href="mailto:diego.fontaneto@gmail.com">diego.fontaneto[at]cnr.it</a>
+      Diego Fontaneto<br>CNR-IRSA<br>Head of Delegation<br><a href="http://www.cnr.it/people/diego.fontaneto" target="_blank" style="margin-top: 10px;">Personal page</a> - <a href="mailto:diego.fontaneto@gmail.com">diego.fontaneto[at]cnr.it</a>
   </div>
 
 </div>
