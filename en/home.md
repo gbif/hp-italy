@@ -44,7 +44,7 @@ permalink: /
       <img src="/assets/images/icons/publishers.png" alt="" /><p><h3><span data-ajax-url="https://api.gbif.org/v1/organization?country=IT&amp;limit=0&amp;isEndorsed=true">100,000</span></h3></p>
     </a>
     <a href="https://www.gbif.org/publisher/search?country=IT" target="_blank" style="margin-top: 10px;">
-      Datasets from Italian publishers
+      Italian publishers
     </a>
   </div>
 
