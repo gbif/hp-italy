@@ -2,16 +2,16 @@
 # You should create one of these files for each language you support. E.g. /_data/es/navigation.yml for the spanish version of the menu
 # Links listed below will be included in your site's navbar (navigation at the top)
 
-- text: Data
+- text: About
   menu: 
-  - text: Occurrences
-    href: /occurrence/search
-  - text: Datasets
-    href: /dataset/search
-  - text: Collections
-    href: /collection/search
-  - text: Literature
-    href: /literature/search
+  - text: What is GBIF Italia?
+    href: /what/
+  - text: Governance
+    href: /governance/
+  - text: Join us
+    href: /join/
+  - text: Contacts
+    href: /contacts/
 - text: Links
   menu: # Dropdown menu (one level deep only)
   - text: Base theme demo
