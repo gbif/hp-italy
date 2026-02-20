@@ -53,6 +53,15 @@ permalink: /
     </a>
   </div>
 
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 200px;">
+    <a href="https://www.gbif.org/resource/search?contentType=literature&literatureType=journal&relevance=GBIF_USED&countriesOfResearcher=IT&peerReview=true" target="_blank">
+      <img src="/assets/images/icons/literature.png" alt="" />
+    </a>
+    <a href="https://www.gbif.org/resource/search?contentType=literature&literatureType=journal&relevance=GBIF_USED&countriesOfResearcher=IT&peerReview=true" target="_blank" style="margin-top: 10px;">
+      Scientific papers on peer-reviewed journals published by Italian researchers using GBIF data
+    </a>
+  </div>
+
 </div>
 
 
