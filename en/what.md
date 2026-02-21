@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /en/what
-title: "What GBIF Italia is?"
+title: "What is GBIF Italia?"
 background: //assets/images/banner.png
 # mobileToc: true # OPTIONAL - default is false. Should the TOC show on mobile devices (will show above article)
 ---
@@ -12,5 +12,3 @@ From the outset, the National Research Council (CNR)—mandated by the Ministry 
 <br>
 The Italian Node began publishing datasets in December 2025 and is now working to aggregate all existing datasets previously published in GBIF by Italian institutions. The objective is to reorganize Italian data production and publication efforts to better support publishers and ensure the creation of high-quality datasets.
 <br>
-
-</div>
