@@ -7,7 +7,7 @@
 columns:
   - name: GBIF Italia
     description: | # Can be Markdown and multiline as shown here. 
-      GBIF Italia was established by the National Research Council (CNR), mandated by the Ministry of University and Research (MUR).<br><br>
+      GBIF Italia è coordinato dal Con siglio Nazionale delle Ricerche (CNR) su mandato del Ministero dell'Università e della Ricerca (MUR).<br><br>
     links:
     - text: - https://www.cnr.it/
       href: https://www.cnr.it/
@@ -21,9 +21,9 @@ columns:
   - name: Contact
     description: | # Can be Markdown
       * mail: <a href="mailto: info@gbif.it">info[at]gbif.it</a>
-      * Street name
-      * 1234 postal code
-      * Italy
+      * Via e numero
+      * 1234 codice postale
+      * Italia
    # connectIcons: true # Show social icons (defined in _config.yml)
    # Social icons links defined in `_config.yml`
 
@@ -48,4 +48,4 @@ columns:
 # Will be postfixed by "Powered by GBIF"
 # (Disabled by default, remove the '#' lines on the following two lines to enable.)
 license: >
-  Content on this site is licensed under an [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+  Il contenuto di questo sito è distribuito con licenza [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
