@@ -14,18 +14,18 @@ columns:
     - text: Ministry of University and Research
       href: https://www.mur.gov.it/
 
-  - name: Code
-    description: | # Can be Markdown
-      See `_data/footer.yml` to customize the footer.
+#  - name: Code
+#    description: | # Can be Markdown
+#      See `_data/footer.yml` to customize the footer.
   
   - name: Contact
     description: | # Can be Markdown
-      # Social icons links defined in `_config.yml`
       * mail: <a href="mailto: info@gbif.it">info[at]gbif.it</a>
       * Street name
       * 1234 postal code
-      * Country
+      * Italy
    # connectIcons: true # Show social icons (defined in _config.yml)
+   # Social icons links defined in `_config.yml`
 
 
   # EXAMPLE - just leave this commented out at the bottom of the file for future reference
