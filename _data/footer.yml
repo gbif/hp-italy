@@ -7,11 +7,11 @@
 columns:
   - name: GBIF Italia
     description: | # Can be Markdown and multiline as shown here. 
-      GBIF Italia was established by the National Research Council (CNR), mandated by the Ministry of University and Research (MUR).
+      GBIF Italia was established by the National Research Council (CNR), mandated by the Ministry of University and Research (MUR).<br><br>
     links:
-    - text: National Research Council
+    - text: - National Research Council
       href: https://www.cnr.it/en
-    - text: Ministry of University and Research
+    - text: - Ministry of University and Research
       href: https://www.mur.gov.it/
 
 #  - name: Code
