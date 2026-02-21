@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 permalink: /en/governance
 title: "Governance"
 background: //assets/images/banner.png
