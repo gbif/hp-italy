@@ -6,9 +6,8 @@ background: //assets/images/banner.png
 # mobileToc: true # OPTIONAL - default is false. Should the TOC show on mobile devices (will show above article)
 ---
 
-GBIF Italia, il nostro nodo nazionale GBIF, è stato costituito nell'ottobre 2025 sotto il controllo del Consiglio Nnazionale delle Ricerche (CNR) su mandato del Ministero dell'Università e della Ricerca (MUR).
+GBIF Italia, the Italian GBIF node, was issued on october 2025. It is managed by the National Research Council (CNR) on behalf of the Ministry of University and Research (MUR).
 <br>
-La struttura di governance è la seguente:
 <br>
 <div style="display: flex; flex-wrap: wrap; gap: 20px 40px; justify-content: center; align-items: flex-start;">
 
