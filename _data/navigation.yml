@@ -5,13 +5,13 @@
 - text: About
   menu: 
   - text: What is GBIF Italia?
-    href: /what/
+    href: /en/what
   - text: Governance
     href: /en/governance
   - text: Join us
-    href: /join/
+    href: /en/join
   - text: Contacts
-    href: /contacts/
+    href: /en/contacts
 - text: Links
   menu: # Dropdown menu (one level deep only)
   - text: Base theme demo
