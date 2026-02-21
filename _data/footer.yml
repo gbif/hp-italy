@@ -5,16 +5,14 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - name: Column example
+  - name: GBIF Italia
     description: | # Can be Markdown and multiline as shown here. 
-      This is an example column. You can add as many as you want.
-      Each column can have a name, an optional description and optional links.
-      You can also enable social icons for a column (e.g. for a "Contact" column).
+      GBIF Italia was established by the National Research Council (CNR), mandated by the Ministry of University and Research (MUR).
     links:
-    - text: Name of project partner 1
-      href: http://example.com
-    - text: Name of project partner 2
-      href: http://example.com
+    - text: National Research Council
+      href: https://www.cnr.it/en
+    - text: Ministry of University and Research
+      href: https://www.mur.gov.it/
 
   - name: Code
     description: | # Can be Markdown
@@ -22,11 +20,12 @@ columns:
   
   - name: Contact
     description: | # Can be Markdown
-      Social icons links defined in `_config.yml`
+      # Social icons links defined in `_config.yml`
+      * mail: <a href="mailto: info@gbif.it">info[at]gbif.it</a>
       * Street name
       * 1234 postal code
       * Country
-    connectIcons: true # Show social icons (defined in _config.yml)
+   # connectIcons: true # Show social icons (defined in _config.yml)
 
 
   # EXAMPLE - just leave this commented out at the bottom of the file for future reference
@@ -48,5 +47,5 @@ columns:
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml
 # Will be postfixed by "Powered by GBIF"
 # (Disabled by default, remove the '#' lines on the following two lines to enable.)
-#license: >
-#  Content on this site is licensed under an [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+license: >
+  Content on this site is licensed under an [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
