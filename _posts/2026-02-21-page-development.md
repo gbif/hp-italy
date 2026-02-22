@@ -2,6 +2,7 @@
 title: GBIF Italia hosted portal
 description: The hosted portal of the Italian GBIF National Node is online..
 background: /assets/images/banner.png
+lang-ref: en
 categories: [GBIF, Shared category]
 toc: true
 excludeFromArchive: false # optional value to exclude the post from the news archive
