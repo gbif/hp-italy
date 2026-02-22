@@ -5,6 +5,7 @@ categories: ["Getting started", "Jekyll"]
 lang-ref: for authors
 toc: false
 background: /assets/images/placeholders/templates/w600h400.png
+excludeFromArchive: true
 ---
 You’ll find this post in your `_posts` directory.
 
