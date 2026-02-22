@@ -1,7 +1,7 @@
 ---
 title: Abramo Massalongo Lichen Collection
 description: New dataset published in then GBIF by an Italian publisher.
-background: /assets/images/news/Massalongo.png
+background: /assets/images/news/Massalongo_small.png
 imageLicense: CC BY 4.0
 categories: [Biodiversity, Herbarium, Lichens, Specimens]
 toc: true
@@ -15,6 +15,6 @@ The lichen collection "Abramo Massalongo" includes 594 exsiccata of 490 taxa, ma
 The dataset is available at <a href="https://doi.org/10.15468/6gcus5" target="_blank">https://doi.org/10.15468/6gcus5</a>
 
 ### A specimen
-<img src="/assets/img/Haeckel_Caulerpa_racemosa_(uvifera).jpeg" />
+<img src="/assets/images/news/Massalongo.png" />
 
 
