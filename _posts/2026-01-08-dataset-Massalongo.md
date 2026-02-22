@@ -2,7 +2,7 @@
 title: Abramo Massalongo Lichen Collection
 description: New dataset published in then GBIF by an Italian publisher.
 background: /assets/images/news/Massalongo_small.png
-imageLicense: CC BY 4.0
+imageLicense: "CC BY 4.0 - Authors: Seggi, Linda; Trabucco, Raffaella - Copyright: Fondazione Musei Civici di Venezia"
 lang-ref: en
 categories: [Biodiversity, Herbarium, Lichens, Specimens]
 toc: true
