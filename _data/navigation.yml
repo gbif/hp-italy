@@ -12,10 +12,10 @@
     href: /en/join
   - text: Contacts
     href: /en/contacts
-- text: Links
+- text: Documents
   menu: # Dropdown menu (one level deep only)
-  - text: Base theme demo
-    href: https://hp-base-theme.gbif-staging.org/
+  - text: Open Data and FAIR Data
+    href: /en/open_fair
   - text: Other sites using the theme
     href: https://github.com/gbif/?q=hp-&type=all&language=&sort=
   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
