@@ -1,7 +1,7 @@
 ---
 title: Abramo Massalongo Lichen Collection
 description: New dataset published in then GBIF by an Italian publisher.
-background: /assets/images/Haeckel_Caulerpa_racemosa_(uvifera).jpeg
+background: /assets/images/news/Massalongo.png
 imageLicense: CC BY 4.0
 categories: [Biodiversity, Herbarium, Lichens, Specimens]
 toc: true
