@@ -20,7 +20,8 @@
 # in the templates via {{ site.myvariable }}.
 
 logo: /assets/images/GBIF_Ita_logo_small.png
-# title: GBIF Italia # /assets/images/GBIF_Ita_logo_small.png # the title of your site should go here
+logoAndTitle: false
+title: GBIF Italia # /assets/images/GBIF_Ita_logo_small.png # the title of your site should go here
 email: info@gbif.it
 description: >- # this means to ignore newlines (until baseurl:)
   Write an awesome description for your new site here. You can edit this
