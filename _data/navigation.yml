@@ -14,6 +14,8 @@
     href: /en/contacts
 - text: Documents
   menu: # Dropdown menu (one level deep only)
+  - text: Data Papers
+    href: /en/datapaper
   - text: Open Data and FAIR Data
     href: /en/open_fair
   - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
