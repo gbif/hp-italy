@@ -20,7 +20,7 @@ columns:
   
   - name: Contact
     description: | # Can be Markdown
-      * mail: <a href="mailto: info@gbif.it">info[at]gbif.it</a>
+      * mail: <a href="mailto: info@gbif.it">info@gbif.it</a>
       * Street name
       * 1234 postal code
       * Italy
