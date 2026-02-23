@@ -50,7 +50,7 @@ permalink: /
       <img src="/assets/images/icons/publishers.png" alt="" />
     </a>
     <a href="https://www.gbif.org/publisher/search?country=IT" target="_blank" style="margin-top: 10px;">
-      Datasets from Italian publishers
+      Italian publishers
     </a>
   </div>
 
