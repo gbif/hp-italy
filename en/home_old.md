@@ -6,7 +6,7 @@ description: This is the web page of the Italian GBIF National Node.<br>Here you
 background: /assets/images/banner.png
 imageLicense: CC BY
 height: 70vh
-permalink: /
+permalink: /home_old
 ---
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px 40px; justify-content: center; align-items: flex-start;">
