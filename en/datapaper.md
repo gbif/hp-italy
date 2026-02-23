@@ -44,7 +44,7 @@ A Webinar on Data Papers produced by the GBIF is <a href="https://www.gbif.org/e
 ## Journals of Italian Scientific Societies which accept data papers
 
 This is a list of the journals which are issued by Italian Scientific Societies - that accept data papers, together with the APC fees. A complete list of all journals that accept data papers is avalaible at the <a href="https://www.gbif.org/data-papers" target="_blank">Data Papers page</a> of the GBIF portal.
-<br><br>
+<br>
 - European Zoological Journal (UZI), T&F OA, € 1.615 (free for the members of the Society)
 - Italian Botanist (SBI), Pensoft OA, € 650 + € 25 for each page above 10 pages
 - Journal of Limnology (CNR), PAGEPress OA, € 600
