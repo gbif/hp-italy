@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 permalink: /en/datapaper
 title: "Data papers"
 background: //assets/images/banner.png
