@@ -41,6 +41,8 @@ It is important to distinguish between the two. The **dataset** is the raw file 
 
 A Webinar on Data Papers produced by the GBIF is <a href="https://www.gbif.org/event/7j0sFhaug80CIMqs6aWegK/webinar-introduction-to-data-papers" target="_blank">available here</a>.
 
+---
+
 ## Journals of Italian Scientific Societies which accept data papers
 
 This is a list of the journals which are issued by Italian Scientific Societies - that accept data papers, together with the APC fees. A complete list of all journals that accept data papers is avalaible at the <a href="https://www.gbif.org/data-papers" target="_blank">Data Papers page</a> of the GBIF portal.
