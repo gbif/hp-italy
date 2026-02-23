@@ -23,7 +23,7 @@ permalink: /
       <img src="/assets/images/icons/italy.png" alt="" />
     </a>
     <a href="https://www.gbif.org/occurrence/search?country=IT" target="_blank" style="margin-top: 10px;">
-      Occurrences in Italy
+      Occurrence record in Italia
     </a>
   </div>
 
@@ -32,7 +32,7 @@ permalink: /
       <img src="/assets/images/icons/occurrences.png" alt="" />
     </a>
     <a href="https://www.gbif.org/occurrence/search?publishing_country=IT" target="_blank" style="margin-top: 10px;">
-      Occurrences published by Italian publishers
+      Occurrence record pubblicati da enti Italiani
     </a>
   </div>
 
@@ -41,7 +41,7 @@ permalink: /
       <img src="/assets/images/icons/datasets.png" alt="" />
     </a>
     <a href="https://www.gbif.org/dataset/search?publishing_country=IT&advanced=1" target="_blank" style="margin-top: 10px;">
-      Datasets from Italian publishers
+      Datasets prodotti da enti Italiani
     </a>
   </div>
 
@@ -50,7 +50,7 @@ permalink: /
       <img src="/assets/images/icons/publishers.png" alt="" />
     </a>
     <a href="https://www.gbif.org/publisher/search?country=IT" target="_blank" style="margin-top: 10px;">
-      Italian publishers
+      Enti Italiani che pubblicano dati nel GBIF
     </a>
   </div>
 
@@ -59,7 +59,7 @@ permalink: /
       <img src="/assets/images/icons/literature.png" alt="" />
     </a>
     <a href="https://www.gbif.org/resource/search?contentType=literature&literatureType=journal&relevance=GBIF_USED&countriesOfResearcher=IT&peerReview=true" target="_blank" style="margin-top: 10px;">
-      Scientific papers on peer-reviewed journals published by Italian researchers using GBIF data
+      Articoli scientifici su riviste con peer-review con autori Italiani che usano dati del GBIF
     </a>
   </div>
 
