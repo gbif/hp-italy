@@ -14,5 +14,4 @@ The hosted protal of the Italian GBIF Nationsl Node - GBIF Italia - is available
 ## What's for us in the future?
 The portal will grow in the short and medium term, and will provide novel services to the national and international GBIF community.<br><br>The developments will reflect the commitment of our wide community to contribute open data to the GBIF, as well as to develope services to be replicated and reused by researchers and data providers worldwide.
 
-## Stay tune for future, exciting news
-
+## Stay tuned for future, exciting news
