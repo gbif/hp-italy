@@ -9,6 +9,7 @@ height: 70vh
 permalink: /
 ---
 
+
 <div style="display: flex; flex-wrap: wrap; gap: 20px 40px; justify-content: center; align-items: flex-start;">
 
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 200px;">
