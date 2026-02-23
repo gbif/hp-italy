@@ -1,7 +1,7 @@
 ---
 lang-ref: home
 layout: home
-title: GBIF Italy
+title: GBIF Italia
 description: This is the web page of the Italian GBIF National Node.<br>Here you'll find occurrence records, datasets, data providers from Italy, together with information for Italian providers and researchers.
 background: /assets/images/banner.png
 imageLicense: CC BY
