@@ -45,15 +45,15 @@ A Webinar on Data Papers produced by the GBIF is <a href="https://www.gbif.org/e
 
 ## Journals of Italian Scientific Societies which accept data papers
 
-This is a list of the journals which are issued by Italian Scientific Societies - that accept data papers, together with the APC fees. A complete list of all journals that accept data papers is avalaible at the <a href="https://www.gbif.org/data-papers" target="_blank">Data Papers page</a> of the GBIF portal.
+This is a list of the journals (in alphabetical order) which are issued by Italian Scientific Societies - that accept data papers, together with the APC fees. A complete list of all journals that accept data papers is avalaible at the <a href="https://www.gbif.org/data-papers" target="_blank">Data Papers page</a> of the GBIF portal.
 <br>
-- European Zoological Journal (UZI), T&F OA, € 1.615 (free for the members of the Society)
-- Italian Botanist (SBI), Pensoft OA, € 650 + € 25 for each page above 10 pages
-- Journal of Limnology (CNR), PAGEPress OA, € 600
-- Bollettino della Società Entomologica Italiana (SEI), PAGEPress OA, € 100 (free for the members of the Society)
+- Biogeographia (Italian Biogeography Society), eScholarship Diamond OA, € 0
+- Bollettino della Società Entomologica Italiana (Italian Enthomologic Society), PAGEPress OA, € 100 (free for the members of the Society)
 - Ethology Ecology & Evolution, T&F Hybrid OA, € 3170
-- Plant Biosystems (SBI), Springer Hybrid OA, € 2.790
-- Biogeographia (SIB), eScholarship Diamond OA, € 0
-- iForest - Biogeosciences and Forestry (SISEF), SISEF Diamond OA, € 0
-- Hystrix (ATIt), ATIt Diamond OA, € 0
+- European Zoological Journal (Italian Zoological Union), T&F OA, € 1.615 (free for the members of the Society)
+- Hystrix (Italian Mammal Society), ATIt Diamond OA, € 0
+- iForest - Biogeosciences and Forestry (Italian Society of Silvicolture and Forest Ecology), SISEF Diamond OA, € 0
+- Italian Botanist (Italian Botanical Society), Pensoft OA, € 650 + € 25 for each page above 10 pages
+- Journal of Limnology (National Council of Research), PAGEPress OA, € 600
+- Plant Biosystems (Italian Botanical Society), Springer Hybrid OA, € 2.790
 - SIBM, Biologia Marina Mediterranea, not OA
