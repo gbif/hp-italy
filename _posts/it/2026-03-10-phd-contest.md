@@ -8,6 +8,7 @@ toc: true
 excludeFromArchive: false # optional value to exclude the post from the news archive
 ---
 
+
 La **call per l’edizione 2026 del GBIF Graduate Researchers Award** è ora aperta. Due premi da **5.000 €** saranno assegnati a studenti laureati (master o dottorato) le cui ricerche si basano su dati mediati da GBIF.
 
 L’Italia, in quanto **Paese partecipante a GBIF**, nominerà **due candidati** selezionati tra le candidature nazionali inviate al Nodo **GBIF Italia** entro il **15 maggio 2026**, che concorreranno per il premio.
@@ -23,7 +24,7 @@ I candidati nominati dall’Italia devono essere iscritti a un **programma di la
 ## Processo di candidatura e scadenze
 
 I candidati devono inviare la propria candidatura **via email entro il 15 maggio 2026** a
-**[[diego.fontaneto@cnr.it](mailto:diego.fontaneto@cnr.it) oppure [info@gbif.it](mailto:info@gbif.it)]**.
+**[[diego.fontaneto@cnr.it](mailto:diego.fontaneto@cnr.it)]**.
 
 ### Documenti richiesti per la candidatura
 
