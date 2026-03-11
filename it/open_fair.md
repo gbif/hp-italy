@@ -5,8 +5,7 @@ title: "Open Data e FAIR data"
 background: //assets/images/banner.png
 # mobileToc: true # OPTIONAL - default is false. Should the TOC show on mobile devices (will show above article)
 ---
-
-
+<br><br>
 Sebbene vengano spesso usati insieme, **Open Data** e **FAIR Data** rappresentano due obiettivi distinti ma complementari nella moderna gestione dei dati di ricerca:
 
 **Open Data** si riferisce a dati resi disponibili al pubblico senza restrizioni. Possono essere utilizzati liberamente, modificati e condivisi da chiunque per qualsiasi scopo. L’attenzione principale è sull’accessibilità legale ed economica, eliminando le barriere all’informazione.
