@@ -5,24 +5,24 @@
 - text: Su di noi
   menu: 
   - text: Cosa è GBIF Italia?
-    href: /en/what
+    href: /it/what
   - text: Governance
-    href: /en/governance
+    href: /it/governance
   - text: Unisciti al network
-    href: /en/join
+    href: /it/join
   - text: Contatti
-    href: /en/contacts
+    href: /it/contacts
 - text: Documenti
   menu: # Dropdown menu (one level deep only)
   - text: Data Paper
-    href: /en/datapaper
+    href: /it/datapaper
   - text: Open Data e FAIR Data
-    href: /en/open_fair
+    href: /it/open_fair
 - text: Servizi
   menu: # Dropdown menu (one level deep only)
   - text: ChatIPT
-    href: /en/ChatIPT
+    href: /it/ChatIPT
   - text: EML Generator
-    href: /en/EMLGen
+    href: /it/EMLGen
 - text: News
   href: /news/
