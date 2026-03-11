@@ -18,7 +18,11 @@
     href: /en/datapaper
   - text: Open Data and FAIR Data
     href: /en/open_fair
-  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
-  - text: "Docs" # Title for block of menu items
+- text: Services
+  menu: # Dropdown menu (one level deep only)
+  - text: ChatIPT
+    href: /en/ChatIPT
+  - text: EML Generator
+    href: /en/EMLGen
 - text: News
   href: /news/
