@@ -5,6 +5,7 @@ title: "Data paper"
 background: //assets/images/banner.png
 # mobileToc: true # OPTIONAL - default is false. Should the TOC show on mobile devices (will show above article)
 ---
+<br>
 
 ## Cosa è un Data Paper?
 
