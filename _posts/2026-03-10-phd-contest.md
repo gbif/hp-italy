@@ -16,7 +16,7 @@ The winners will be announced in October 2026, in the Governing Board 33.
 Candidates to be nominated by Italy must be enrolled in a university graduation programme in Italy to be eligible for the award.
 
 ## Submission process and deadlines
-Candidates should submit their application, by email, to [diego.fontaneto@cnr.it oppure info@gbif.it] by 15th May 2026.
+Candidates should submit their application, by email, to [diego.fontaneto@cnr.it] by 15th May 2026.
 Award nomination documents:
 Research summary (200 words)
 Project description (maximum five pages, 12-point Arial) that describes
