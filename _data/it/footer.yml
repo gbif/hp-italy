@@ -18,11 +18,13 @@ columns:
 #    description: | # Can be Markdown
 #      See `_data/footer.yml` to customize the footer.
   
-  - name: Contact
+  - name: Contatti
     description: | # Can be Markdown
-      * mail: <a href="mailto: info@gbif.it">info[at]gbif.it</a>
-      * Via e numero
-      * 1234 codice postale
+      * mail: <a href="mailto: info@gbif.it">info@gbif.it</a>
+      * Dipartimento di Scienze del Sistema Terra e Tecnologie per l'Ambiente
+      * Consiglio Nazionale delle Ricerche
+      * Piazzale Aldo Moro, 7
+      * 00185 Roma
       * Italia
    # connectIcons: true # Show social icons (defined in _config.yml)
    # Social icons links defined in `_config.yml`
