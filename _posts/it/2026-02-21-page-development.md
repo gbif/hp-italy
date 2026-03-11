@@ -9,9 +9,11 @@ excludeFromArchive: false # optional value to exclude the post from the news arc
 ---
 
 ## Il portale di GBIF Italia è online 
-The hosted protal of the Italian GBIF Nationsl Node - GBIF Italia - is available online in Italian and English sionce March 10, 2026.<br><br>The National Node was instituted in October 2025, and one of the first steps which were carried out was the development of this portal, in order to provide the Italian GBIF community an access poit to resources, statistics, and information. 
+Il **portale ospitato del Nodo Nazionale italiano di GBIF – GBIF Italia –** è disponibile online in italiano e in inglese dal **10 marzo 2026**.<br><br>Il Nodo Nazionale è stato istituito nell’ottobre 2025 e uno dei primi passi compiuti è stato lo sviluppo di questo portale, con l’obiettivo di fornire alla comunità italiana di GBIF un punto di accesso a risorse, statistiche e informazioni.
+ 
 
 ## Cosa ci riserva il futuro?
-The portal will grow in the short and medium term, and will provide novel services to the national and international GBIF community.<br><br>The developments will reflect the commitment of our wide community to contribute open data to the GBIF, as well as to develope services to be replicated and reused by researchers and data providers worldwide.
+Il portale crescerà nel breve e medio termine e offrirà nuovi servizi alla comunità GBIF nazionale e internazionale.<br><br>Gli sviluppi rifletteranno l’impegno della nostra ampia comunità nel contribuire con dati aperti a GBIF, oltre che nello sviluppare servizi che possano essere replicati e riutilizzati da ricercatori e fornitori di dati in tutto il mondo.
+
 
 ## Restate in contatto con noi per le prossime, eccitanti novità.
