@@ -1,0 +1,28 @@
+# Navigation configuration
+# You should create one of these files for each language you support. E.g. /_data/es/navigation.yml for the spanish version of the menu
+# Links listed below will be included in your site's navbar (navigation at the top)
+
+- text: Su di noi
+  menu: 
+  - text: Cosa è GBIF Italia?
+    href: /en/what
+  - text: Governance
+    href: /en/governance
+  - text: Unisciti al network
+    href: /en/join
+  - text: Contatti
+    href: /en/contacts
+- text: Documenti
+  menu: # Dropdown menu (one level deep only)
+  - text: Data Paper
+    href: /en/datapaper
+  - text: Open Data e FAIR Data
+    href: /en/open_fair
+- text: Servizi
+  menu: # Dropdown menu (one level deep only)
+  - text: ChatIPT
+    href: /en/ChatIPT
+  - text: EML Generator
+    href: /en/EMLGen
+- text: News
+  href: /news/
