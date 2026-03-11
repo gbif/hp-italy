@@ -8,7 +8,7 @@ background: //assets/images/banner.png
 
 ### ChatIPT: Simplify Data Publishing with AI
 
-## ChatIPT won the Ebbe Nielsen award in 2024.
+#### ChatIPT won the Ebbe Nielsen award in 2024.
 
 ChatIPT is a service provided by the Norway National Node.
 
