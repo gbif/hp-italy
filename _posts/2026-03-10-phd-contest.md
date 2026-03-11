@@ -39,4 +39,4 @@ Use of and strategic significance for data accessed through GBIF
 Measurable effectiveness and impact in advancing biodiversity informatics and/or the conservation of biological diversity.
 
 ## More information
-https://www.gbif.org/news/2qFpkI7rwBNbMuSjn2rtae/2026-gbif-graduate-researchers-award-call-for-nominations
+<a href="https://www.gbif.org/news/2qFpkI7rwBNbMuSjn2rtae/2026-gbif-graduate-researchers-award-call-for-nominations" target="_blank">https://www.gbif.org/news/2qFpkI7rwBNbMuSjn2rtae/2026-gbif-graduate-researchers-award-call-for-nominations</a>
