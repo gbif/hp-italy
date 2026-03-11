@@ -1,7 +1,7 @@
 ---
 title: GBIF Graduate Researchers Award
 description: The call for the 2026 edition of the 2026 GBIF Graduate Researchers Award is now open.
-background: /assets/images/banner.png
+background: /assets/images/NEWS/PHD_CALL.JPG
 lang-ref: en
 categories: [GBIF, Shared category]
 toc: true
