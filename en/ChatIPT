@@ -1,7 +1,0 @@
-
-
-ChatIPT: Simplify Data Publishing with AI
-ChatIPT won the Ebbe Nielsen award in 2024.
-Calling all biologists, botanists, ecologists, students, researchers! If you’ve ever said “I’ll publish that dataset later,” ChatIPT is the “later.” Upload. Chat. Publish. Done. New version: chatipt.svc.gbif.no
-It's a chatbot that harnesses the power of ChatGPT to standardize and publish biodiversity data to GBIF. ChatIPT transforms your Excel tables into Darwin Core (DwC) compatible formats effortlessly, preparing your datasets for publication. Currently, it publishes data to the GBIF test environment, so you can refine your datasets without concerns about premature public release.
-If you encounter any issues or have suggestions, please report them on our GitHub repository: gbif-norway/ChatIPT. Your feedback is invaluable in helping us improve the service.
