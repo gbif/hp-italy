@@ -59,13 +59,13 @@ Un elenco completo di tutte le riviste che accettano Data Paper è disponibile n
 [https://www.gbif.org/data-papers](https://www.gbif.org/data-papers).
 
 <br>
-- Biogeographia (Italian Biogeography Society), eScholarship Diamond OA, € 0
-- Bollettino della Società Entomologica Italiana (Italian Enthomologic Society), PAGEPress OA, € 100 (free for the members of the Society)
-- Ethology Ecology & Evolution, T&F Hybrid OA, € 3170
-- European Zoological Journal (Italian Zoological Union), T&F OA, € 1.615 (free for the members of the Society)
-- Hystrix (Italian Mammal Society), ATIt Diamond OA, € 0
-- iForest - Biogeosciences and Forestry (Italian Society of Silvicolture and Forest Ecology), SISEF Diamond OA, € 0
-- Italian Botanist (Italian Botanical Society), Pensoft OA, € 650 + € 25 for each page above 10 pages
-- Journal of Limnology (National Council of Research), PAGEPress OA, € 600
-- Plant Biosystems (Italian Botanical Society), Springer Hybrid OA, € 2.790
-- SIBM, Biologia Marina Mediterranea, not OA
+- Biogeographia (Società Italiana di Biogeografia), eScholarship Diamond OA, € 0
+- Bollettino della Società Entomologica Italiana (Società Italiana di Entomologia), PAGEPress OA, € 100 (free for the members of the Society)
+- Ethology Ecology & Evolution, Tailor & Francis Hybrid OA, € 3170
+- European Zoological Journal (Unione Zoologica Italiana), Tailor & Francis OA, € 1.615 (free for the members of the Society)
+- Hystrix (Società Teriologica Italiana), ATIt Diamond OA, € 0
+- iForest - Biogeosciences and Forestry (Società Italiana di Silvicultura e di Ecologia Forestal), SISEF Diamond OA, € 0
+- Italian Botanist (Società Botanica Italiana), Pensoft OA, € 650 + € 25 for each page above 10 pages
+- Journal of Limnology (Consiglio Nazionale delle Ricerche), PAGEPress OA, € 600
+- Plant Biosystems (Società Botanica Italiana), Springer Hybrid OA, € 2.790
+- Biologia Marina Mediterranea (Società Italiana di Biologia Marina), not OA
