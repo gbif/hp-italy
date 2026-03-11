@@ -61,4 +61,4 @@ Il **GBIF Science Committee** esaminerà le candidature e selezionerà i vincito
 
 
 ## Maggiori informazioni
-https://www.gbif.org/news/2qFpkI7rwBNbMuSjn2rtae/2026-gbif-graduate-researchers-award-call-for-nominations
+<a href="https://www.gbif.org/news/2qFpkI7rwBNbMuSjn2rtae/2026-gbif-graduate-researchers-award-call-for-nominations" target="_blank">https://www.gbif.org/news/2qFpkI7rwBNbMuSjn2rtae/2026-gbif-graduate-researchers-award-call-for-nominations</a>
