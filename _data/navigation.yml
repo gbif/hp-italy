@@ -22,7 +22,5 @@
   menu: # Dropdown menu (one level deep only)
   - text: ChatIPT
     href: /en/ChatIPT
-  - text: EML Generator
-    href: /en/EMLGen
 - text: News
   href: /news/
