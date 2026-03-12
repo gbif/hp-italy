@@ -20,7 +20,7 @@ columns:
   
   - name: Contatti
     description: | # Can be Markdown
-      * mail: <a href="mailto: info@gbif.it">info@gbif.it</a>
+    #  * mail: <a href="mailto: info@gbif.it">info@gbif.it</a>
       * Dipartimento di Scienze del Sistema Terra e Tecnologie per l'Ambiente
       * Consiglio Nazionale delle Ricerche
       * Piazzale Aldo Moro, 7
