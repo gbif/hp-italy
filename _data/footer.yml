@@ -20,7 +20,7 @@ columns:
   
   - name: Contact
     description: | # Can be Markdown
-      * mail: <a href="mailto: info@gbif.it">info@gbif.it</a>
+  #    * mail: <a href="mailto: info@gbif.it">info@gbif.it</a>
       * Department of Earth System Sciences and Environmental Technologies
       * National Research Council
       * Piazzale Aldo Moro, 7
