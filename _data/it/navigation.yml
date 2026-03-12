@@ -22,5 +22,5 @@
   menu: # Dropdown menu (one level deep only)
   - text: ChatIPT
     href: /it/ChatIPT
-- text: News
-  href: /news/
+- text: Notizie
+  href: /it/news/
