@@ -7,5 +7,5 @@ background: //assets/images/banner.png
 ---
 
 <br>
-Potete contattare GBIF Italia all'indirizzo di posta elettronica: <a href="mailto:info@gbif.it">info@gbif.it</a>.
+Potete contattare GBIF Italia all'indirizzo di posta elettronica: <a href="mailto:martelst@units.it">martelst@units.it</a>.
 <br>
