@@ -1,7 +1,7 @@
 # The translations on this page is machine generated and need a review
 en:
   label: English
-  archive_permalink: /post/
+  archive_permalink: /news/
 da:
   label: Dansk
   archive_permalink: /da/post/
@@ -10,7 +10,7 @@ es:
   archive_permalink: /es/post/
 it:
   label: Italiano
-  archive_permalink: /it/post/
+  archive_permalink: /it/news/
 ru:
   label: Русский
   archive_permalink: /ru/post/
