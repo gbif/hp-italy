@@ -27,7 +27,7 @@ permalink: /it/
       <img src="/assets/images/icons/occurrences.png" alt="" /><p><h3><span data-ajax-path="data.occurrenceSearch.documents.total" data-ajax-url="https://graphql.gbif.org/graphql?query=%0Aquery%20%7B%0A%20%20occurrenceSearch%28%0A%20%20%20%20predicate%3A%20%7B%0A%20%20%20%20%20%20type%3A%20and%0A%20%20%20%20%20%20predicates%3A%20%5B%0A%20%20%20%20%20%20%20%20%7B%20type%3A%20in%2C%20key%3A%20%22publishingCountry%22%2C%20values%3A%20%5B%22IT%22%5D%20%7D%0A%20%20%20%20%20%20%5D%0A%20%20%20%20%7D%0A%20%20%20%20size%3A%2010%0A%20%20%29%20%7B%0A%20%20%20%20documents%20%7B%0A%20%20%20%20%20%20total%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D%0A"></span></h3></p>
     </a>
     <a href="https://www.gbif.org/occurrence/search?publishing_country=IT" target="_blank" style="margin-top: 10px;">
-      Record pubblicati a data provider Italiani
+      Record pubblicati da data provider Italiani
     </a>
   </div>
 
