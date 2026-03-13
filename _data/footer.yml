@@ -20,14 +20,13 @@ columns:
   
   - name: Contact
     description: | # Can be Markdown
-      # - mail: <a href="mailto: info@gbif.it">info@gbif.it</a>
-      - Department of Earth System Sciences and Environmental Technologies
-      - National Research Council
-      - Piazzale Aldo Moro, 7
-      - 00185 Roma, Italy
+      * mail: <a href="mailto: info@gbif.it">info@gbif.it</a>
+      * Department of Earth System Sciences and Environmental Technologies
+      * National Research Council
+      * Piazzale Aldo Moro, 7
+      * 00185 Roma, Italy
    # connectIcons: true # Show social icons (defined in _config.yml)
    # Social icons links defined in `_config.yml`
-
 
   # EXAMPLE - just leave this commented out at the bottom of the file for future reference
   # You can add as many columns as you want
