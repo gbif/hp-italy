@@ -31,14 +31,14 @@ permalink: /it/
     </a>
   </div>
 
-#  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 200px;">
-#    <a href="https://www.gbif.org/dataset/search?publishing_country=IT&advanced=1" target="_blank">
-#      <img src="/assets/images/icons/datasets.png" alt="" /><p><h3><span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishing_country=IT&amp;advanced=1"></span></h3></p>
-#    </a>
-#    <a href="https://www.gbif.org/dataset/search?publishing_country=IT&advanced=1" target="_blank" style="margin-top: 10px;">
-#      Dataset prodotti da data provider Italiani
-#    </a>
-#  </div>
+  <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 200px;">
+    <a href="https://www.gbif.org/dataset/search?publishing_country=IT&advanced=1" target="_blank">
+      <img src="/assets/images/icons/datasets.png" alt="" /><p><h3><span data-ajax-url="https://api.gbif.org/v1/dataset/search?publishing_country=IT&amp;advanced=1"></span></h3></p>
+    </a>
+    <a href="https://www.gbif.org/dataset/search?publishing_country=IT&advanced=1" target="_blank" style="margin-top: 10px;">
+      Dataset prodotti da data provider Italiani
+    </a>
+  </div>
 
   <div style="display: flex; flex-direction: column; align-items: center; text-align: center; width: 200px;">
     <a href="https://www.gbif.org/publisher/search?country=IT" target="_blank">
